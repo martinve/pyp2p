@@ -4,7 +4,8 @@
 
 ### Lokaalsed serverid
 
-- Võtta aluseks Pythoni default socketserver ja panna käima selle baasinstallatsioon mingile suvalisele pordile
+- Võtta aluseks Pythoni default socketserver ja panna käima selle baasinstallatsioon fikseeritud
+    - Saata sinna suvalist datat ja veenduda, et vastus on ootuspärane
 - Tekitada nimekiri peeridest ja vaadata kuidas seda kõige paremini hallata
 - Võtta urllib teek ja teha sellega GET/POST päringuid serveri vastu
 - Kui erinevaid instanceid käima/seisma panna tekitada olukord, et peeride nimekiri uueneks
