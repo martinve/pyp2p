@@ -1,6 +1,6 @@
 # P2P Implementatsioon Pythonis
 
-## TODO
+## TODO/Tegevusplaan
 
 ### Lokaalsed serverid
 
